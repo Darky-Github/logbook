@@ -1,0 +1,20 @@
+# Ignore compiled binary
+logbook
+
+# Ignore object files
+*.o
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Ignore logs and debug files
+*.log
+*.out
+
+# Ignore system files (macOS & Linux)
+.DS_Store
+Thumbs.db
+
